@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj",
+        "projectName": "SMECommerce.Models",
+        "projectPath": "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj",
+        "packagesPath": "C:\\Users\\Rashed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rashed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj",
+        "projectName": "SMECommerce.Services.Abstractions",
+        "projectPath": "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Rashed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rashed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
+                "projectPath": "C:\\Users\\Rashed\\Desktop\\Professional\\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\\TrainnigWorkspace\\ASP.NET_Core_MVC\\Practice\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
